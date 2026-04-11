@@ -1,0 +1,9 @@
+File Integrity Check Demo
+
+This file is used to demonstrate the concept of file integrity verification using SHA-256 hashing.
+
+Any unauthorized modification to this file will result in a completely different hash value, indicating a potential security breach.
+
+Author: Swapnil Bhopi
+Purpose: Cybersecurity Internship Task 1
+fvvadfbafdbafdb
