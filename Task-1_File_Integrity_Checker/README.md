@@ -1,3 +1,12 @@
+Compony name : **Codtech IT Solutions Private Limited**
+
+Name : Name: Swapnil Rajesh Bhopi
+Role: Cyber Security & Ethical Hacking
+Company: Codtech IT Solutions Private Limited
+Duration: 4 Weeks
+Intern ID: CTIS8041
+
+
 # File Integrity Checker
 
 This project is a Python-based tool that monitors file changes using SHA-256 hashing.
