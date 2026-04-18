@@ -1,34 +1,41 @@
-Compony name : **Codtech IT Solutions Private Limited**
+## FILE-INTEGRITY-CHECKER  
+COMPANY: CODTECH IT SOLUTIONS  
 
-Name : Name: Swapnil Rajesh Bhopi
+NAME: Swapnil Rajesh Bhopi  
+INTERN ID: CTIS8041  
+DOMAIN: CYBER SECURITY & ETHICAL HACKING  
+DURATION: 4 WEEKS  
+MENTOR: NEELA SANTOSH  
 
-Role: Cyber Security & Ethical Hacking
+📖 About  
+This project is created as part of my internship task. The main goal of this task was to understand how file integrity works using hashing techniques. Instead of only learning theory, I implemented the concept using Python.
 
-Company: Codtech IT Solutions Private Limited
+I used SHA-256 hashing to monitor changes in files. While working on this project, I understood how even a small modification in a file results in a completely different hash value.
 
-Duration: 4 Weeks
+🚀 What This Project Does  
+This tool calculates the hash value of a file and compares it with the previous hash to detect any changes. If the file is modified, the tool immediately shows a warning.
 
-Intern ID: CTIS8041
+🛠️ Tools & Technologies  
+Python  
+Hashlib Library  
+Jupyter Notebook  
 
+📂 Project Files  
+file_integrity_checker.ipynb → Main notebook file  
+Swap.txt → Sample file  
+README.md → Documentation  
 
-# File Integrity Checker
+▶️ How to Run  
+Open Jupyter Notebook  
+Run all cells  
+Modify the file (Swap.txt)  
+Observe change detection  
 
-This project is a Python-based tool that monitors file changes using SHA-256 hashing.
+📊 Output  
+The program successfully detects file modifications by comparing hash values.
 
-## Features
-- Detects any modification in files
-- Uses secure SHA-256 hashing algorithm
-- Simple and efficient implementation
+🎯 What I Learned  
+I learned about hashing, file integrity, and how cybersecurity systems detect file tampering.
 
-## How it works
-The program calculates the hash of a file and compares it with a previous hash value to detect any changes.
-
-## How to Run
-
-1. Open the notebook
-2. Run all cells
-3. Modify the file (Swap.txt)
-4. Observe the change detection
-
-## Author
-Swapnil Bhopi
+📌 Conclusion  
+This project helped me understand real-world file security mechanisms and improved my coding skills.
